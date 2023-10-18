@@ -4,4 +4,4 @@ WORKDIR /src
 
 RUN yarn install
 
-CMD yarn next dev
+CMD yarn dev
